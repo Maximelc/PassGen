@@ -42,7 +42,7 @@ final class PasswordManager {
         static let numbers: [String] = CharacterSet.decimalDigits.members
         
         /// Returns a character set containing the characters in Unicode General Category L* & M* as String Array.
-        static let characters: [String] = CharacterSet.letters.members
+        static let letters: [String] = CharacterSet.letters.members
     }
     
     // MARK: - Life cycle
@@ -76,7 +76,7 @@ extension PasswordManager {
             switch attribute {
             case .symbols: passwordData += PassworKindData.symbols.shuffled()
             case .numbers: passwordData += PassworKindData.numbers.shuffled()
-            case .letters: passwordData += PassworKindData.characters.shuffled()
+            case .letters: passwordData += PassworKindData.letters.shuffled()
             }
         }
         
