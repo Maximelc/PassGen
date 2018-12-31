@@ -1,0 +1,21 @@
+/*
+    Localizable.strings
+    PassGen
+
+    Created by Maxime LE COAT on 12/29/18
+    Copyright (c) 2018 Maximelc. All rights reserved.
+*/
+
+//--- Common ---
+"common.name" = "PassGen";
+"common.close" = "Fermer";
+"common.confirm" = "Confirmer";
+
+//--- PGHomeViewController --
+"PGHomeViewController.title" = "Accueil";
+"PGHomeViewController.length" = "Taille";
+"PGHomeViewController.symbols" = "Symboles";
+"PGHomeViewController.numbers" = "Nombres";
+"PGHomeViewController.letters" = "Lettres";
+"PGHomeViewController.alert.title" = "⚠️ Attention ⚠️";
+"PGHomeViewController.alert.subtitle" = "Etes-vous sûr de vouloir remplacer votre presse-papier actuel par le mot de passe généré ?";

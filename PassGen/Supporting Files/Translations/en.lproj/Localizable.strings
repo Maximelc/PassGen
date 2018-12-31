@@ -1,0 +1,21 @@
+/*
+    Localizable.strings
+    PassGen
+
+    Created by Maxime LE COAT on 12/29/18
+    Copyright (c) 2018 Maximelc. All rights reserved.
+*/
+
+//--- Common ---
+"common.name" = "PassGen";
+"common.close" = "Close";
+"common.confirm" = "Confirm";
+
+//--- PGHomeViewController --
+"PGHomeViewController.title" = "Home";
+"PGHomeViewController.length" = "Length";
+"PGHomeViewController.symbols" = "Symbols";
+"PGHomeViewController.numbers" = "Numbers";
+"PGHomeViewController.letters" = "Letters";
+"PGHomeViewController.alert.title" = "⚠️ Warning ⚠️";
+"PGHomeViewController.alert.subtitle" = "Do you really want to replace your current clipboard with the new generated password ?";

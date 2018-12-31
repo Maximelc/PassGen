@@ -1,0 +1,6 @@
+framework module Pods_PassGen {
+  umbrella header "Pods-PassGen-umbrella.h"
+
+  export *
+  module * { export * }
+}
