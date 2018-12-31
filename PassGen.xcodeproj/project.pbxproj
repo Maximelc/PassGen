@@ -12,6 +12,7 @@
 		4E52DA5D21D865D10048B1E4 /* Localizable.strings in Sources */ = {isa = PBXBuildFile; fileRef = 4E52DA5F21D865D10048B1E4 /* Localizable.strings */; };
 		4E52DA6221D8689A0048B1E4 /* PGHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E52DA6121D8689A0048B1E4 /* PGHomeViewController.swift */; };
 		4E52DA6521D868DF0048B1E4 /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E52DA6421D868DF0048B1E4 /* Home.storyboard */; };
+		4EF6D28421DACE26001B0DF4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4EF6D28321DACE26001B0DF4 /* README.md */; };
 		4EFC9FD021D87508007D08D3 /* PasswordManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFC9FCF21D87508007D08D3 /* PasswordManager.swift */; };
 		4EFC9FD221D94945007D08D3 /* CharacterSet+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFC9FD121D94945007D08D3 /* CharacterSet+Additions.swift */; };
 		4EFC9FD421D9804C007D08D3 /* Array+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFC9FD321D9804C007D08D3 /* Array+Additions.swift */; };
@@ -54,6 +55,7 @@
 		4E52DA5E21D865D10048B1E4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		4E52DA6121D8689A0048B1E4 /* PGHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGHomeViewController.swift; sourceTree = "<group>"; };
 		4E52DA6421D868DF0048B1E4 /* Home.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
+		4EF6D28321DACE26001B0DF4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4EFC9FCF21D87508007D08D3 /* PasswordManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordManager.swift; sourceTree = "<group>"; };
 		4EFC9FD121D94945007D08D3 /* CharacterSet+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CharacterSet+Additions.swift"; sourceTree = "<group>"; };
 		4EFC9FD321D9804C007D08D3 /* Array+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Additions.swift"; sourceTree = "<group>"; };
@@ -265,6 +267,7 @@
 		C2CA7968AE33334E259943DF = {
 			isa = PBXGroup;
 			children = (
+				4EF6D28321DACE26001B0DF4 /* README.md */,
 				8B884D7270721692BCA60390 /* PassGen */,
 				AF9BB7D3A57D4315F4326072 /* UnitTests */,
 				A54E5687C8277ACA3C14DC6E /* Frameworks */,
@@ -393,6 +396,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EF6D28421DACE26001B0DF4 /* README.md in Resources */,
 				B0176917F96FF4B9D3506DA8 /* LaunchScreen.storyboard in Resources */,
 				4E52DA6521D868DF0048B1E4 /* Home.storyboard in Resources */,
 				95BCED98970010D757309E91 /* Assets.xcassets in Resources */,
